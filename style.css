@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    width: 90%;
+    height: 700px;
+    margin: 100px auto;
+    background-color: antiquewhite;
+}
+
+.card {
+    display: flex;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    vertical-align: middle;
+    top: 50%;
+    left: 50%;
+}
+
+.productImg{
+    width: 50%;
+}
+
+.right {
+    background-color: rgb(242, 239, 234);
+    padding: 5%;
+}
+
+.perfume {
+    font-size: 15px;
+    color: gray;
+}
+
+.header {
+    font-weight:900;
+    font-size: 40px;
+}
